@@ -56,4 +56,5 @@ GROQ_API_KEY=your_api_key
 ---
 ## Author
 **Muhammad Ali**
+
 *AI Engineer | LLM Engineer | Information Retrieval & RAG Enthusiast*
